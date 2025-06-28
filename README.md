@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Avinash Kumar Sharma
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/lines=M.Tech+Data+Science+%26+AI+at+IIT+Madras;Published+at+NeurIPS+ICLR+WACV+CVPR;Speech+Emotion+Recognition+Researcher;Computer+Vision+@+Walmart+Tech+Excellence&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+M.Tech+Data+Science+%26+AI+%40+IIT+Madras;📊+Published+at+NeurIPS+%7C+ICLR+%7C+CVPR+%7C+WACV;🧠+Speech+Emotion+Recognition+Researcher;👁️+Computer+Vision+%40+Walmart+Tech+Excellence;🏆+ICASSP+2024+Global+Rank+14th;🌍+Low-Resource+Language+Processing;🚀+Industrial+AI+%26+Edge+Computing;💡+Transforming+Research+into+Real+Solutions&font=Fira%20Code&center=true&width=800&height=60&duration=3000&pause=800&color=58A6FF&size=24" alt="Typing Animation">
 </div>
 
 ---

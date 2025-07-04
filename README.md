@@ -10,7 +10,7 @@
 
 - 🔬 **M.Tech Student** in **Data Science & AI** at **Indian Institute of Technology Madras**
 - 🏢 **Research Intern** at **Walmart Centre for Tech Excellence** (Computer Vision & Industrial AI)
-- 📊 **Published Researcher** at **NeurIPS, ICLR, WACV, CVPR** workshops and conferences
+- 📊 **Published ** at **NeurIPS, ICLR, WACV, CVPR** .
 - 🧠 Specializing in **Speech Emotion Recognition**, **Computer Vision**, and **Edge AI**
 - 🚀 Passionate about translating academic research into practical solutions
 
@@ -22,7 +22,7 @@
 - **CVPR 2025**: Generative Defect Synthesis for Industrial Anomaly Detection
 - **ICLR 2025**: Multi-Weather Classification for Autonomous Driving
 - **WACV 2025**: Maritime Image Classification with Coresets
-- **NeurIPS 2024**: Layer-wise Adaptive Quantization for Speech Emotion Recognition
+- **NeurIPS 2024**: Layer-wise Adaptive Quantization for Speech Emotion Recognition(PMLR)
 - **AfricaNLP 2025**: Fine-tuning Whisper Tiny for Swahili ASR
 
 ### 🏅 **Competition Rankings**

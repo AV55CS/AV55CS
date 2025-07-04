@@ -10,7 +10,7 @@
 
 - 🔬 **M.Tech Student** in **Data Science & AI** at **Indian Institute of Technology Madras**
 - 🏢 **Research Intern** at **Walmart Centre for Tech Excellence** (Computer Vision & Industrial AI)
-- 📊 **Published ** at **NeurIPS, ICLR, WACV, CVPR** .
+- 📊 **Published** at **NeurIPS, ICLR, WACV, CVPR** .
 - 🧠 Specializing in **Speech Emotion Recognition**, **Computer Vision**, and **Edge AI**
 - 🚀 Passionate about translating academic research into practical solutions
 

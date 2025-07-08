@@ -114,8 +114,8 @@
 
 ### 🎯 **Key Metrics**
 - **Model Efficiency**: 95%+ size reduction while maintaining accuracy
-- **Cross-linguistic**: ASR improvements across multiple languages  
-- **Industrial Impact**: Real-time defect detection systems
+- **Cross-linguistic**: ASR improvements across Low resource languages  
+- **Industrial Impact**: defect detection systems
 - **Academic Recognition**: 6+ publications at top-tier venues
 
 </div>
@@ -133,6 +133,7 @@
 [![Walmart](https://img.shields.io/badge/Walmart%20Tech-0071CE?style=for-the-badge&logo=walmart&logoColor=white)]()
 
 </div>
+
 
 ---
 
